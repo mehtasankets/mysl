@@ -1,0 +1,9 @@
+Package: mysl
+Version: 3.04-1
+Architecture: amd64
+Maintainer: Mehta Sanket Satish <mehtasankets@gmail.com>
+Installed-Size: 44
+Depends: libc6 (>= 2.4), libncurses5 (>= 5.5-5~), libtinfo5
+Section: x11
+Priority: extra
+Description: My changes to sl code

@@ -1,0 +1,5 @@
+mysl (3.04-1) unstable; urgency=low
+
+  * Initial release (Closes: #1234)  <1234 is the bug number of your ITP>
+
+ -- Mehta Sanket Satish <mehtasankets@gmail.com>  Wed, 30 May 2012 20:33:50 +0530

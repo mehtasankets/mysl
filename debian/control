@@ -1,0 +1,14 @@
+Source: mysl
+Section: x11
+Priority: extra
+Maintainer: Mehta Sanket Satish <mehtasankets@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage:
+#Vcs-Git: git://git.debian.org/collab-maint/mysl.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/mysl.git;a=summary
+
+Package: mysl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: My changes to sl code
